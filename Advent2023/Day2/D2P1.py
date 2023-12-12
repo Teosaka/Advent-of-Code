@@ -1,4 +1,4 @@
-with open ("Day2\Input.txt", "r") as file:
+with open ("Advent2023\Day2\Input.txt", "r") as file:
   limit = {"red": 12, "blue": 14, "green": 13}
   total = 0
   gameColors = {}

@@ -1,4 +1,4 @@
-with open ("Day2\Input.txt", "r") as file:
+with open ("Advent2023\Day2\Input.txt", "r") as file:
   total = 0
   gameColors = {}
   for line in file.readlines():

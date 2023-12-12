@@ -1,4 +1,4 @@
-with open("Day1\Input.txt", "r") as file:
+with open("Advent2023\Day1\Input.txt", "r") as file:
   numToString = {"one" : 1,"two" : 2,"three" : 3,"four" : 4,"five" : 5,"six" : 6,"seven" : 7,"eight" : 8,"nine" : 9}
   total = 0
   for line in file.readlines():
