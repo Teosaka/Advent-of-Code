@@ -1,4 +1,4 @@
-with open ("Advent2023\\Day4\\Input.txt", "r") as file:
+with open ("Advent2023\Day4\Input.txt", "r") as file:
   total = 0
   for line in file.readlines():
     cardNumber = int(line[line.find(" ") + 1: line.find(":")])
